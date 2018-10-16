@@ -1,3 +1,5 @@
+.idea
 composer.phar
-data/*
 vendor/
+data/*
+!data/.gitkeep
